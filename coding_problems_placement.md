@@ -8,12 +8,12 @@
 
 ## 📂 Section 1: Arrays
 
-| # | Problem | Difficulty | Key Concept |
-|---|---------|------------|-------------|
-| 1 | Find the largest element in an array | ⭐ Easy | Traversal |
-| 2 | Find the smallest element in an array | ⭐ Easy | Traversal |
-| 3 | Find the second largest element | ⭐ Easy | Traversal |
-| 4 | Reverse an array | ⭐ Easy | Two Pointers |
+| # | Problem | Difficulty | Key Concept | Practice | Solution |
+|---|---------|------------|-------------|-------------|-------------|
+| 1 | Find the largest element in an array | ⭐ Easy | Traversal | [Link](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | [Link](https://www.geeksforgeeks.org/dsa/program-to-find-largest-element-in-an-array/) |
+| 2 | Find the smallest element in an array | ⭐ Easy | Traversal | [Link](https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1) | [Link](https://www.geeksforgeeks.org/dsa/to-find-smallest-and-second-smallest-element-in-an-array/) |
+| 3 | Find the second largest element | ⭐ Easy | Traversal |[Link](https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1) | [Link](https://www.geeksforgeeks.org/dsa/to-find-smallest-and-second-smallest-element-in-an-array/) |
+| 4 | Reverse an array | ⭐ Easy | Two Pointers | [LeetCode](https://leetcode.com/problems/reverse-string/) [Link](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | [Link](https://www.geeksforgeeks.org/dsa/program-to-reverse-an-array/) |
 | 5 | Check if array is sorted (ascending) | ⭐ Easy | Traversal |
 | 6 | Remove duplicates from sorted array | ⭐ Easy | Two Pointers |
 | 7 | Move all zeros to the end | ⭐ Easy | Two Pointers |
@@ -40,11 +40,11 @@
 
 ## 📂 Section 2: Strings
 
-| # | Problem | Difficulty | Key Concept |
-|---|---------|------------|-------------|
-| 26 | Reverse a string | ⭐ Easy | Two Pointers |
-| 27 | Check if string is a palindrome | ⭐ Easy | Two Pointers |
-| 28 | Count vowels and consonants in a string | ⭐ Easy | Traversal |
+| # | Problem | Difficulty | Key Concept | Practice | Solution |
+|---|---------|------------|-------------|-------------|-------------|
+| 26 | Reverse a string | ⭐ Easy | Two Pointers | [Link](https://leetcode.com/problems/reverse-string/description/) | [Link](https://www.geeksforgeeks.org/dsa/reverse-a-string/) |
+| 27 | Check if string is a palindrome | ⭐ Easy | Two Pointers | [LeetCode](https://leetcode.com/problems/valid-palindrome/description/), [Link](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | [Link](https://www.geeksforgeeks.org/dsa/palindrome-string/) |
+| 28 | Count vowels and consonants in a string | ⭐ Easy | Traversal | [Link](https://www.geeksforgeeks.org/problems/consonants-and-vowels-check-java/1) | [Link](https://www.geeksforgeeks.org/dsa/program-count-vowels-consonant-digits-special-characters-string/)
 | 29 | Count occurrences of a character in string | ⭐ Easy | Traversal |
 | 30 | Remove all spaces from a string | ⭐ Easy | Traversal |
 | 31 | Convert string to uppercase / lowercase | ⭐ Easy | Built-in / ASCII |
