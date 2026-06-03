@@ -14,7 +14,7 @@
 | 2 | Find the smallest element in an array | ⭐ Easy | Traversal | [Link](https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1) | [Link](https://www.geeksforgeeks.org/dsa/to-find-smallest-and-second-smallest-element-in-an-array/) |
 | 3 | Find the second largest element | ⭐ Easy | Traversal |[Link](https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1) | [Link](https://www.geeksforgeeks.org/dsa/to-find-smallest-and-second-smallest-element-in-an-array/) |
 | 4 | Reverse an array | ⭐ Easy | Two Pointers | [LeetCode](https://leetcode.com/problems/reverse-string/) [Link](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | [Link](https://www.geeksforgeeks.org/dsa/program-to-reverse-an-array/) |
-| 5 | Check if array is sorted (ascending) | ⭐ Easy | Traversal |
+| 5 | Check if array is sorted (ascending) | ⭐ Easy | Traversal | [LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) [Link](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | [Link](https://www.geeksforgeeks.org/dsa/program-check-array-sorted-not-iterative-recursive/) |
 | 6 | Remove duplicates from sorted array | ⭐ Easy | Two Pointers |
 | 7 | Move all zeros to the end | ⭐ Easy | Two Pointers | [LeetCode](https://leetcode.com/problems/move-zeroes/description/) [Link](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1) | [Link](https://www.geeksforgeeks.org/dsa/move-zeroes-end-array/) |
 | 8 | Left rotate array by one position | ⭐ Easy | Shifting |
@@ -45,8 +45,8 @@
 | 26 | Reverse a string | ⭐ Easy | Two Pointers | [Link](https://leetcode.com/problems/reverse-string/description/) | [Link](https://www.geeksforgeeks.org/dsa/reverse-a-string/) |
 | 27 | Check if string is a palindrome | ⭐ Easy | Two Pointers | [LeetCode](https://leetcode.com/problems/valid-palindrome/description/), [Link](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | [Link](https://www.geeksforgeeks.org/dsa/palindrome-string/) |
 | 28 | Count vowels and consonants in a string | ⭐ Easy | Traversal | [Link](https://www.geeksforgeeks.org/problems/consonants-and-vowels-check-java/1) | [Link](https://www.geeksforgeeks.org/dsa/program-count-vowels-consonant-digits-special-characters-string/)
-| 29 | Count occurrences of a character in string | ⭐ Easy | Traversal |
-| 30 | Remove all spaces from a string | ⭐ Easy | Traversal |
+| 29 | Count occurrences of a character in string | ⭐ Easy | Traversal | [Link](https://www.geeksforgeeks.org/problems/count-the-characters1821/1) | [Link](https://www.geeksforgeeks.org/dsa/program-count-occurrence-given-character-string/) |
+| 30 | Remove all spaces from a string | ⭐ Easy | Traversal | [Link](https://www.geeksforgeeks.org/problems/remove-spaces0128/1) | [Link](https://www.geeksforgeeks.org/dsa/remove-spaces-from-a-given-string/) |
 | 31 | Convert string to uppercase / lowercase | ⭐ Easy | Built-in / ASCII |
 | 32 | Reverse words in a sentence | ⭐ Easy | Split & Reverse |
 | 33 | Check if two strings are equal (ignore case) | ⭐ Easy | String Compare |
