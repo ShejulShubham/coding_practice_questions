@@ -16,7 +16,7 @@
 | 4 | Reverse an array | ⭐ Easy | Two Pointers | [LeetCode](https://leetcode.com/problems/reverse-string/) [Link](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | [Link](https://www.geeksforgeeks.org/dsa/program-to-reverse-an-array/) |
 | 5 | Check if array is sorted (ascending) | ⭐ Easy | Traversal |
 | 6 | Remove duplicates from sorted array | ⭐ Easy | Two Pointers |
-| 7 | Move all zeros to the end | ⭐ Easy | Two Pointers |
+| 7 | Move all zeros to the end | ⭐ Easy | Two Pointers | [LeetCode](https://leetcode.com/problems/move-zeroes/description/) [Link](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1) | [Link](https://www.geeksforgeeks.org/dsa/move-zeroes-end-array/) |
 | 8 | Left rotate array by one position | ⭐ Easy | Shifting |
 | 9 | Right rotate array by K positions | ⭐ Easy | Reversal Trick |
 | 10 | Find missing number in array (1 to N) | ⭐ Easy | Sum Formula / XOR |
