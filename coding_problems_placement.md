@@ -15,8 +15,9 @@
 | 3 | Find the second largest element | ⭐ Easy | Traversal |[Link](https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1) | [Link](https://www.geeksforgeeks.org/dsa/to-find-smallest-and-second-smallest-element-in-an-array/) |
 | 4 | Reverse an array | ⭐ Easy | Two Pointers | [LeetCode](https://leetcode.com/problems/reverse-string/) [Link](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | [Link](https://www.geeksforgeeks.org/dsa/program-to-reverse-an-array/) |
 | 5 | Check if array is sorted (ascending) | ⭐ Easy | Traversal | [LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) [Link](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | [Link](https://www.geeksforgeeks.org/dsa/program-check-array-sorted-not-iterative-recursive/) |
-| 6 | Remove duplicates from sorted array | ⭐ Easy | Two Pointers |
+| 6 | Remove duplicates from sorted array | ⭐ Easy | Two Pointers | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [Link](https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1) | [Link](https://www.geeksforgeeks.org/dsa/remove-duplicates-sorted-array/) |
 | 7 | Move all zeros to the end | ⭐ Easy | Two Pointers | [LeetCode](https://leetcode.com/problems/move-zeroes/description/) [Link](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1) | [Link](https://www.geeksforgeeks.org/dsa/move-zeroes-end-array/) |
+
 | 8 | Left rotate array by one position | ⭐ Easy | Shifting |
 | 9 | Right rotate array by K positions | ⭐ Easy | Reversal Trick |
 | 10 | Find missing number in array (1 to N) | ⭐ Easy | Sum Formula / XOR |
