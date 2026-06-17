@@ -47,8 +47,8 @@
 | 28 | Count vowels and consonants in a string | ⭐ Easy | Traversal | [Link](https://www.geeksforgeeks.org/problems/consonants-and-vowels-check-java/1) | [Link](https://www.geeksforgeeks.org/dsa/program-count-vowels-consonant-digits-special-characters-string/)
 | 29 | Count occurrences of a character in string | ⭐ Easy | Traversal | [Link](https://www.geeksforgeeks.org/problems/count-the-characters1821/1) | [Link](https://www.geeksforgeeks.org/dsa/program-count-occurrence-given-character-string/) |
 | 30 | Remove all spaces from a string | ⭐ Easy | Traversal | [Link](https://www.geeksforgeeks.org/problems/remove-spaces0128/1) | [Link](https://www.geeksforgeeks.org/dsa/remove-spaces-from-a-given-string/) |
-| 31 | Convert string to uppercase / lowercase | ⭐ Easy | Built-in / ASCII |
-| 32 | Reverse words in a sentence | ⭐ Easy | Split & Reverse |
+| 31 | Convert string to uppercase / lowercase | ⭐ Easy | Built-in / ASCII | [LeetCode](https://leetcode.com/problems/to-lower-case/description/) [Link](https://www.geeksforgeeks.org/problems/toggle-case/1) | [Link](https://www.geeksforgeeks.org/dsa/convert-alternate-characters-string-upper-case/#approach-1-using-ascii-values-on-time-and-o1-space) |
+| 32 | Reverse words in a sentence | ⭐ Easy | Split & Reverse | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) [Link](https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)| [Link](https://www.geeksforgeeks.org/dsa/reverse-words-in-a-given-string/) |
 | 33 | Check if two strings are equal (ignore case) | ⭐ Easy | String Compare |
 | 34 | Find length of string without using built-in | ⭐ Easy | Traversal |
 | 35 | Concatenate two strings without built-in | ⭐ Easy | Traversal |
