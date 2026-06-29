@@ -19,7 +19,7 @@
 | 7 | Move all zeros to the end | ⭐ Easy | Two Pointers | [LeetCode](https://leetcode.com/problems/move-zeroes/description/) [Link](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1) | [Link](https://www.geeksforgeeks.org/dsa/move-zeroes-end-array/) |
 | 8 | Left rotate array by one position | ⭐ Easy | Shifting | [Link](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | [Link](https://www.geeksforgeeks.org/dsa/array-rotation/) | 
 | 9 | Right rotate array by K positions | ⭐ Easy | Reversal Trick | [LeetCode](https://leetcode.com/problems/rotate-array/) [Link](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) | [Link](https://www.geeksforgeeks.org/dsa/print-array-after-it-is-right-rotated-k-times/) |
-| 10 | Find missing number in array (1 to N) | ⭐ Easy | Sum Formula / XOR |
+| 10 | Find missing number in array (1 to N) | ⭐ Easy | Sum Formula / XOR | [LeetCode](https://leetcode.com/problems/missing-number/) [Link](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | [Link](https://www.geeksforgeeks.org/dsa/find-the-missing-number/) | 
 | 11 | Find the duplicate element in array | ⭐ Easy | Traversal / XOR |
 | 12 | Sum of all elements in array | ⭐ Easy | Traversal |
 | 13 | Count even and odd numbers in array | ⭐ Easy | Traversal |
