@@ -20,7 +20,7 @@
 | 8 | Left rotate array by one position | ⭐ Easy | Shifting | [Link](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | [Link](https://www.geeksforgeeks.org/dsa/array-rotation/) | 
 | 9 | Right rotate array by K positions | ⭐ Easy | Reversal Trick | [LeetCode](https://leetcode.com/problems/rotate-array/) [Link](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) | [Link](https://www.geeksforgeeks.org/dsa/print-array-after-it-is-right-rotated-k-times/) |
 | 10 | Find missing number in array (1 to N) | ⭐ Easy | Sum Formula / XOR | [LeetCode](https://leetcode.com/problems/missing-number/) [Link](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | [Link](https://www.geeksforgeeks.org/dsa/find-the-missing-number/) | 
-| 11 | Find the duplicate element in array | ⭐ Easy | Traversal / XOR |
+| 11 | Find the duplicate element in array | ⭐ Easy | Traversal / XOR | [Leetcode](https://leetcode.com/problems/find-the-duplicate-number/description/) [Link](https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1) | [Link](https://www.geeksforgeeks.org/dsa/find-duplicates-in-on-time-and-constant-extra-space/) | 
 | 12 | Sum of all elements in array | ⭐ Easy | Traversal |
 | 13 | Count even and odd numbers in array | ⭐ Easy | Traversal |
 | 14 | Find maximum subarray sum (Kadane's Algorithm) | ⭐⭐ Medium | DP / Greedy |
