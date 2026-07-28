@@ -22,8 +22,8 @@
 | 10 | Find missing number in array (1 to N) | ⭐ Easy | Sum Formula / XOR | [LeetCode](https://leetcode.com/problems/missing-number/) [Link](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | [Link](https://www.geeksforgeeks.org/dsa/find-the-missing-number/) | 
 | 11 | Find the duplicate element in array | ⭐ Easy | Traversal / XOR | [Leetcode](https://leetcode.com/problems/find-the-duplicate-number/description/) [Link](https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1) | [Link](https://www.geeksforgeeks.org/dsa/find-duplicates-in-on-time-and-constant-extra-space/) | 
 | 12 | Sum of all elements in array | ⭐ Easy | Traversal |
-| 13 | Count even and odd numbers in array | ⭐ Easy | Traversal |
-| 14 | Find maximum subarray sum (Kadane's Algorithm) | ⭐⭐ Medium | DP / Greedy |
+| 13 | Count even and odd numbers in array | ⭐ Easy | Traversal | [LeetCode](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) [Link](https://www.geeksforgeeks.org/problems/count-odd-even/1) | [Link](https://www.geeksforgeeks.org/dsa/count-number-even-odd-elements-array/) |
+| 14 | Find maximum subarray sum (Kadane's Algorithm) | ⭐⭐ Medium | DP / Greedy | [LeetCode](https://leetcode.com/problems/maximum-subarray/description/) [Link](https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) | [Link](https://www.geeksforgeeks.org/dsa/largest-sum-contiguous-subarray/) |
 | 15 | Two Sum – find pair with given sum | ⭐ Easy | Two Pointers |
 | 16 | Sort array of 0s, 1s, and 2s | ⭐⭐ Medium | Dutch National Flag |
 | 17 | Find leaders in an array | ⭐ Easy | Right Traversal |
